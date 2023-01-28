@@ -1,2 +1,2 @@
 # digitalSawitpro
-Assignment - Data Engineer
+Assignment - Data Scientist
